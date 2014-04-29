@@ -3,6 +3,8 @@ adbwireless
 
 ADB Wireless source has gone missing, cloning it if needed here.
 
+> _For some odd reason I can not find the original App in Google Play when I search [for "siir.es.adbWireless"](https://play.google.com/store/search?q=siir.es.adbWireless&c=apps) or [for "adbWireless"](https://play.google.com/store/search?q=adbWireless&c=apps) and from my "My Apps" list it is vanished too, though still installed. Anyway, I found the [Google Play **Direct-Link**](https://play.google.com/store/apps/details?id=siir.es.adbWireless) still working! ;)_
+
 ----------
 
 PREVIOUS README
@@ -22,7 +24,7 @@ Versions
  * Added option: Screen always on (be careful with battery consumption)
  
 * **1.5.3**
- * Added option for `Auto connect` to computer, see [adbWireless Service](https://github.com/MrSiir/adbWireless#adbwireless-service)
+ * Added option for `Auto connect` to computer, see [adbWireless Service](https://github.com/eyecatchup/adbWireless#adbwireless-service)
 
 * **1.5.2**
  * Bug fixed, pressing the back button sometimes the message does not disappear ever (Thanks to Sullivan by notify)
