@@ -3,8 +3,15 @@ adbwireless
 
 ADB Wireless source has gone missing, cloning it if needed here.
 
-> _For some odd reason I can not find the original App in Google Play when I search [for "siir.es.adbWireless"](https://play.google.com/store/search?q=siir.es.adbWireless&c=apps) or [for "adbWireless"](https://play.google.com/store/search?q=adbWireless&c=apps) and from my "My Apps" list it is vanished too, though still installed. Anyway, I found the [Google Play **Direct-Link**](https://play.google.com/store/apps/details?id=siir.es.adbWireless) still working! ;)_
+Google Play Link
+----------
 
+For some odd reason I can't find the original App in Google Play when I search for ["siir.es.adbWireless" (play.google.com/store/search?q=siir.es.adbWireless&c=apps)](http://view.xscreenshot.com/9d12e0f2c041333743220545dc70d57c) or ["adbWireless" (play.google.com/store/search?q=adbWireless&c=apps)](http://view.xscreenshot.com/44a42dbf0cea748b57afb3782bf96fed) and from my "My Apps" list it is vanished too, though still installed. Anyway, I found the [Google Play **Direct-Link**](http://view.xscreenshot.com/ef15898fc628ce5ccaeeb8b8260bf547) still working. 
+  
+So, in case you're searching for, here it is: [https://play.google.com/store/apps/details?id=siir.es.adbWireless](https://play.google.com/store/apps/details?id=siir.es.adbWireless) ;)
+
+  
+  
 ----------
 
 PREVIOUS README
